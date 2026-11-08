@@ -2,7 +2,7 @@ TRIKAI AI
 
 Intelligence. Creation. Possibility.
 
-An AI-powered digital creation and productivity platform by "TCprojects" (https://github.com/TCprojects).
+An AI-powered digital creation and productivity platform by "TCprojects"
 
 
 ---
