@@ -4,7 +4,6 @@ Intelligence. Creation. Possibility.
 
 An AI-powered digital creation and productivity platform by "TCprojects" (https://github.com/TCprojects).
 
-"Live Application" (YOUR_VERIFIED_LIVE_URL) · "Report an Issue" (../../issues) · "Contact TCprojects" (mailto:YOUR_PUBLIC_BUSINESS_EMAIL)
 
 ---
 
